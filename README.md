@@ -1,7 +1,6 @@
-# aboutme# 
-Hi, I'm Sayeed
+# aboutme
+# Hi, I'm Sayeed
 
-## About Me
 
 I'm a Cybersecurity student at LaGuardia Community College in New York City. I'm currently building my knowledge and hands-on skills in cybersecurity, networking, databases, and information technology.
 
